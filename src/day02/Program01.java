@@ -4,8 +4,7 @@ public class Program01 {
 	public static void fun()
 	{
 		int x=101234567;
-		char y='a';
-		boolean a=true;
+	
 		byte b=127;
 		short c=32000;
 		long d=1234567890l;
