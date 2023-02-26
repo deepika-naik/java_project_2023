@@ -7,6 +7,7 @@ public class Program01 {
 		cal(10,20);
 		System.out.println("#######");
 		cal(30,50);
+		
 	}
 	public static void cal(int a,int b)
 	{
