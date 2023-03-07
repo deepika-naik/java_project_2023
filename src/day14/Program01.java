@@ -11,7 +11,9 @@ public class Program01 {
 				for(int x:x1)
 				{
 					String y = String.valueOf(x);
-					int count = y.length();			
+		
+                 System.out.println(y);
+                 int count=y.length();
 					double z=0;
 					for(int i=0;i<count;i++)
 					{
@@ -21,8 +23,9 @@ public class Program01 {
 					{
 						System.out.println("ArmStrong Number "+x);
 					}
+				}			
 				}
+				
 			}
 
-		}
-
+		
